@@ -1,1 +1,6 @@
 This my sample code.used for git learning..
+Good morning..,
+today iam done git commands like,
+push
+pull
+and jira
