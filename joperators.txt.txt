@@ -1,0 +1,6 @@
+operators types:
+logical operators
+arithematic operators
+relational operators
+bitwise operators
+uniary operators
