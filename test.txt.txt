@@ -1,6 +1,8 @@
-This my sample code.used for git learning..
-Good morning..,
-today iam done git commands like,
-push
-pull
-and jira
+
+
+#include <stdio.h>
+int main(){
+printf("ok gud keep it up");
+return 0;
+}
+
