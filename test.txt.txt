@@ -1,1 +1,7 @@
 This my sample code.used for git learning..
+
+#include <stdio.h>
+int main(){
+printf("ok gud keep it up");
+return 0;
+}
